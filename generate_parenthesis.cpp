@@ -24,7 +24,6 @@ int main(){
     string str;
     generate(str, n, n);
     for (string str : valid)
-        cout << str << endl;
-        
+        cout << str << endl;        
     return 0;
 }
